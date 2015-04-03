@@ -3,7 +3,9 @@
 ## 基本情報
 
 - twitter: [@masasuz](https://twitter.com/masasuz)
-- blog: http://masasuzu.hatenablog.jp/
+- blog:
+  - main: http://masasuzu.hatenablog.jp/
+  - sub: http://masasuzu.hatenadiary.jp/
 - github: https://github.com/masasuzu/
 - cpan: https://metacpan.org/author/MASASUZU
 
@@ -58,6 +60,7 @@
   - Fluentd導入
   - Fluentd + Elasticsearchによるログ基盤整備
   - Gitbucket導入
+  - 社内Darkpanの整備
   - アプリケションサーバのApache/mod_perlからPSGI/Plackへの移行
   - 監視基盤の整備
   - アプリケーションパフォーマンスの改善およびプロジェクトチームへの助言
