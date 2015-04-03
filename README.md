@@ -55,6 +55,7 @@
 
 - ソーシャルアプリケーションの開発/運用
   - Perl/Apache/mod_perl/Nginx/Debian/Ubuntu/MySQL
+  - MySQLチューニングおよびSQLチューニングによる負荷軽減
 - 開発/運用基盤整備
   - リバースプロキシのPerlbalからNginxへの移行
   - Fluentd導入
