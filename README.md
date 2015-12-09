@@ -7,7 +7,7 @@
   - main: http://masasuzu.hatenablog.jp/
   - sub: http://masasuzu.hatenadiary.jp/
 - github: https://github.com/masasuzu/
-- cpan: https://metacpan.org/author/MASASUZU
+- CPAN: https://metacpan.org/author/MASASUZU
 
 ## 保持技術
 
