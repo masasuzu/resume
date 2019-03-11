@@ -32,8 +32,8 @@
 | 2009/02  | Cisco Certified Network Associate(CCNA)(失効) |
 | 2009/09  | Cisco Certified Network Professional(CCNP)(失効) |
 | 2009/11  | JSTQB テスト技術者試験Foundation Level |
-| 2010/05  | Sun Certified Solaris Associate |
-| 2010/08  | LPIC-1 |
+| 2010/05  | Sun Certified Solaris Associate(失効) |
+| 2010/08  | LPIC-1(失効) |
 | 2010/09  | Ruby Association Certified Ruby Programmer Silver |
 
 ## 学歴/職歴
@@ -63,10 +63,15 @@
   - Fluentd導入
   - Fluentd + Elasticsearchによるログ基盤整備
   - Gitbucket導入
-  - 社内Darkpanの整備
+  - プライベートCPAN(Darkpan)の整備
   - アプリケションサーバのApache/mod_perlからPSGI/Plackへの移行
   - 監視基盤の整備
   - アプリケーションパフォーマンスの改善およびプロジェクトチームへの助言
+  - デプロイ環境の整備(fabric導入)
+  - GitHub導入
+  - 社内基幹サービスのAWS移管
+    - プライベートaptレポジトリ
+    - プライベートCPAN(Darkpan)
 
 ### 株式会社情報工房(2007/04-2010/05)
 
