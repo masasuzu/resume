@@ -4,10 +4,12 @@
 
 - twitter: [@masasuz](https://twitter.com/masasuz)
 - blog:
-  - main: http://masasuzu.hatenablog.jp/
-  - sub: http://masasuzu.hatenadiary.jp/
+  - main(まとまった記事): http://masasuzu.hatenablog.jp/
+  - sub(日記、雑記、メモ): http://masasuzu.hatenadiary.jp/
 - github: https://github.com/masasuzu/
 - CPAN: https://metacpan.org/author/MASASUZU
+- Speaker Deck: https://speakerdeck.com/masasuzu
+- Slide(古いもの): https://masasuzu.net/slide/
 
 ## 保持技術
 
@@ -45,7 +47,6 @@
 | 2007/04 | 株式会社情報工房 入社 |
 | 2010/05 | 株式会社情報工房 退社 |
 | 2010/06 | 株式会社モバイルファクトリー 入社 |
-
 
 ## OSS
 
@@ -94,7 +95,70 @@
   - 監視基盤の整備
   - アプリケーションパフォーマンスの改善およびプロジェクトチームへの助言
   - デプロイ環境の整備(fabric導入)
-  - GitHub導入
+  - GitHub.com導入
   - 社内基幹サービスのAWS移管
     - プライベートaptレポジトリ
     - プライベートCPAN(Darkpan)
+  - Github Enterprise Server導入
+
+
+## コミュニティ
+
+### 発表
+
+- 2011/09/12 DevLOVE ターミナル勉強会 LT
+  - [9月12日 DevLOVE ターミナル勉強会 〜運用と開発を加速させるの法・其ノ壱〜(東京都)](https://kokucheese.com/event/index/16461/)
+  - [zshとtscreenとterminalと私](https://masasuzu.net/slide/build/2011-09-12_devlove_terminal.html)
+  - [DevLove ターミナル勉強会でLTしてきました。 - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/20110913/1315874044)
+
+- 2012/03/26 DevLOVE ターミナル勉強会
+  - [3月26日 DevLOVE ターミナル勉強会「オレの*_historyが火を吹くぜ！」(東京都)](https://kokucheese.com/event/index/21627/)
+  - [カジュアルにターミナルを](https://masasuzu.net/slide/build/2012-03-26_devlove_terminal.html#/title)
+  - [第二回ターミナル勉強会で話してきました。 - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/20120327/1332860264)
+
+- 2013/03/23 Chiba.pm #2 LT
+  - [Chiba.pm #2 : ATND](https://atnd.org/events/36981)
+  - [chiba.pm 2回目に行ってきた #chibapm - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/entry/2013/03/23/chiba.pm2)
+
+- 2014/06/11 Gotanda.pm #1 LT
+  - [Gotanda.pm #1 を開催します | Gotanda.pm](https://gotanda.pm.org/entry/2014-05-13-01.html)
+  - [とある企業のPerlモジュール管理 - Speaker Deck](https://speakerdeck.com/masasuzu/2014-06-11-gotanda-dot-pm)
+  - [#gotandapm Gotanda.pm Perl Technology Conference #1に参加した LTした - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/2014/06/12/gotanda.pm_1)
+
+- 2014/09/18 Gotanda.pm #2 LT
+  - [Gotanda.pm #2 を開催します | Gotanda.pm](https://gotanda.pm.org/entry/2014-09-02-01.html)
+  - [連続ログインを支える技術](https://speakerdeck.com/masasuzu/2014-09-18-gotanda-dot-pm2)
+
+- 2014/10/11 Chiba.pm #5 LT
+  - [ログ監視の話 - Speaker Deck](https://speakerdeck.com/masasuzu/2014-10-11-chiba-dot-pm5)
+  - [#chibapm Chiba.pm #5 でログ回りのことを聞きたかった - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/2014/10/27/chiba.pm_5)
+
+- 2015/01/24 Chiba.pm #6 LT
+  - [Chiba.pm #6 : ATND](https://atnd.org/events/58443)
+  - [CPAN Authorへの道 - Speaker Deck](https://speakerdeck.com/masasuzu/2015-01-24-chiba-dot-pm6)
+  - [#chibapm Chiba.pm #6 に参加してきた - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/2015/01/28/chiba.pm_6)
+
+- 2015/03/25 Gotanda.pm #4
+  - [Gotanda.pm Perl Technology Conference #4 - connpass](https://gotanda-pm.connpass.com/event/11993/)
+  - [mod_perl to PSGIPlack - Speaker Deck](https://speakerdeck.com/masasuzu/2015-03-25-gotanda-dot-pm4)
+  - [#gotandapm Gotanda.pm Perl Technology Conference #4 話してきた話 - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/2015/03/26/gotanda.pm_4)
+
+- 2015/06/24 Gotanda.pm #5 LT
+  - [Gotanda.pm Perl Technology Conference #5 - connpass](https://gotanda-pm.connpass.com/event/15905/)
+  - [Plack web applicationのログの話 - Speaker Deck](https://speakerdeck.com/masasuzu/2015-06-25-gotanda-dot-pm5)
+  - [#gotandapm Gotanda.pm Perl Technology Conference #5 でLTの高速化に失敗しました - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/2015/06/25/184549)
+
+- 2015/07/10 吉祥寺.pm #4 LT
+  - [吉祥寺.pm (kichijojipm) #4 : ATND](https://atnd.org/events/67250)
+  - [ゆるいテンプレートの話 - Speaker Deck](https://speakerdeck.com/masasuzu/2015-07-10-kichijoji-dot-pm4-yurui-template)
+  - [#kichijojipm 吉祥寺.pmでLTしてきた - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/2015/07/12/122011)
+
+- 2015/09/27 Gotanda.pm #6 LT
+  - [Gotanda.pm Perl Technology Conference #6 - connpass](https://gotanda-pm.connpass.com/event/19124/)
+  - [監視の7原則 - Speaker Deck](https://speakerdeck.com/masasuzu/2015-09-17-gotanda-dot-pm6)
+  - [#gotandapm Gotanda.pm Perl Technology Conference #6 でLTしてきました。 - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/2015/09/17/Gotanda.pm6)
+
+- 2015/12/12 Chiba.pm #7 LT
+  - [Chiba.pm #7 : ATND](https://atnd.org/events/72161)
+  - [無題ドキュメント - Speaker Deck](https://speakerdeck.com/masasuzu/2015-12-12-chiba-dot-pm7)
+  - [#chibapm Chiba.pm#7に参加しました。 - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/2015/12/12/chiba.pm-7)
