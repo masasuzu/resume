@@ -50,7 +50,7 @@
 
 ## OSS
 
-### Autour
+### Author
 
 - [ WebService::Slack::IncomingWebHook](https://metacpan.org/pod/WebService::Slack::IncomingWebHook)
 
