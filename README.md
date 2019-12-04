@@ -100,6 +100,8 @@
     - プライベートaptレポジトリ
     - プライベートCPAN(Darkpan)
   - Github Enterprise Server導入
+  - CircleCI オンプレミス導入
+  - プロジェクトへのCircleCI導入支援
 
 
 ## コミュニティ
