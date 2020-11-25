@@ -17,9 +17,9 @@
 - 基本的なネットワーク機器の操作
   - Cisco IOS
   - Juniper Junos
+- AWSを使った基本的なインフラ構築/運用
 - webシステムのインフラ構築/運用
   - Linux OS(主にDebian系)の運用
-  - Nginx
   - MySQL
 - シェルスクリプト/Perlによるツール作成
 - webアプリケーション開発(Perl)
