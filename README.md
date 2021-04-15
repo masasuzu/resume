@@ -14,14 +14,21 @@
 ## 保持技術
 
 - 基本的なネットワーク知識
-- 基本的なネットワーク機器の操作
-  - Cisco IOS
-  - Juniper Junos
-- AWSを使った基本的なインフラ構築/運用
+
+- AWSを使ったインフラ構築/運用
+  - terraform
 - webシステムのインフラ構築/運用
   - Linux OS(主にDebian系)の運用
   - MySQL
+  - Ansible
 - シェルスクリプト/Perlによるツール作成
+
+
+#### 保持しているがここ数年使ってないもの
+
+- 基本的なネットワーク機器の操作
+  - Cisco IOS
+  - Juniper Junos
 - webアプリケーション開発(Perl)
 
 ## 保持資格
