@@ -37,6 +37,7 @@
 | 2010/05  | Sun Certified Solaris Associate(失効) |
 | 2010/08  | LPIC-1(失効) |
 | 2010/09  | Ruby Association Certified Ruby Programmer Silver |
+| 2021/03  | AWS 認定ソリューションアーキテクト – アソシエイト |
 
 ## 学歴/職歴
 
@@ -57,9 +58,12 @@
 
 主に契約締結サービスの運用および運用基盤整備を行う。
 
-- terraformによるAWSリソースの管理
-- AnsibleによるEC2インスタンス構成管理
-- Datadogによる監視
+- 運用作業及び運用改善
+  - terraformによるAWSリソースの管理
+  - AnsibleによるEC2インスタンス構成管理
+  - Datadogによる監視
+  - Amazon Elasticsearch VPC移行
+  - 各種ミドルウェアアップデート
 - etc...
 
 
