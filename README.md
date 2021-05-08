@@ -44,7 +44,8 @@
 | 2010/05  | Sun Certified Solaris Associate(失効) |
 | 2010/08  | LPIC-1(失効) |
 | 2010/09  | Ruby Association Certified Ruby Programmer Silver |
-| 2021/03  | AWS 認定ソリューションアーキテクト – アソシエイト |
+| 2021/03  | AWS 認定 ソリューションアーキテクト – アソシエイト |
+| 2021/05  | AWS 認定 セキュリティ – 専門知識 |
 
 ## 学歴/職歴
 
