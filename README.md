@@ -46,6 +46,7 @@
 | 2010/09  | Ruby Association Certified Ruby Programmer Silver |
 | 2021/03  | AWS 認定 ソリューションアーキテクト – アソシエイト |
 | 2021/05  | AWS 認定 セキュリティ – 専門知識 |
+| 2021/08  | AWS 認定 デベロッパー – アソシエイト |
 
 ## 学歴/職歴
 
