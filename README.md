@@ -36,7 +36,7 @@
 | 取得年月 |資格     |
 |:---------|:--------|
 | 2001/11  | 柔道弐段 |
-| 2005/11  | 初級システムアドミニストレータ取得 |
+| 2005/11  | 初級システムアドミニストレータ |
 | 2008/03  | OMG認定UML技術者資格試験 ファンダメンタル |
 | 2009/02  | Cisco Certified Network Associate(CCNA)(失効) |
 | 2009/09  | Cisco Certified Network Professional(CCNP)(失効) |
