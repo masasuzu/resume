@@ -50,6 +50,7 @@
 | 2021/09  | AWS Certified SysOps Administrator - Associate  |
 | 2021/09  | AWS Certified Solutions Architect - Professional |
 | 2021/10  | AWS Certified Database - Specialty |
+| 2021/11  | AWS Certified DevOps Engineer - Professional |
 
 ## 学歴/職歴
 
