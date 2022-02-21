@@ -2,6 +2,7 @@
 
 ## 基本情報
 
+- Credly: https://www.credly.com/users/suzuki-masashi/badges
 - twitter: [@masasuz](https://twitter.com/masasuz)
 - blog:
   - main(まとまった記事): http://masasuzu.hatenablog.jp/
