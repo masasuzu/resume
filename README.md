@@ -11,6 +11,8 @@
 - CPAN: https://metacpan.org/author/MASASUZU
 - Speaker Deck: https://speakerdeck.com/masasuzu
 - Slide(古いもの): https://masasuzu.net/slide/
+- AWS認定資格 https://www.credly.com/users/masasuzu/badges
+- Google Cloud認定資格 https://www.credential.net/profile/masasuzu/wallet
 
 ## 保持技術
 
@@ -65,11 +67,19 @@
 | 2020/03 | 株式会社モバイルファクトリー 退職 |
 | 2020/04 | 弁護士ドットコム株式会社 入社 |
 | 2022/04 | 弁護士ドットコム株式会社 退職 |
-
+| 2022/05 | 株式会社スリーシェイク 入社 |
 
 ## 職務経歴
 
-### 弁護士ドットコム株式会社(2020/04-現在)
+### 株式会社スリーシェイク(2022/05-現在)
+
+主に他社のインフラ改善や構築支援、SRE導入支援などを行う
+
+- オンプレミスに構築されたウェブサービスの基盤をCloud Runへ移行する支援
+- AWSにおける複数アカウント管理の基盤整備、Control Towerの導入
+- AWS上に構築した金融機関向けのシステムの共通基盤の移行支援
+
+### 弁護士ドットコム株式会社(2020/04-2022/04)
 
 主に契約締結サービスの運用および運用基盤整備を行う。
 
