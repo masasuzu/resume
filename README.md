@@ -54,14 +54,14 @@
 | 2021/09  | AWS Certified Solutions Architect - Professional |
 | 2021/10  | AWS Certified Database - Specialty |
 | 2021/11  | AWS Certified DevOps Engineer - Professional |
-| 2022年10月 | Google Cloud Certified - Professional Cloud Architect |
-| 2022年11月 | Google Cloud Certified - Professional Cloud Developer |
-| 2023年4月 | Google Cloud Certified - Professional Cloud Security Engineer |
-| 2023年4月 | AWS Certified Advanced Networking – Specialty |
-| 2023年4月 | AWS Certified Data Analytics – Specialty |
-| 2023年7月 | AWS Certified Machine Learning – Specialty|
-| 2023年8月 | Google Cloud Certified - Professional Cloud Architect Data Engineer |
-| 2023年10月 | Google Cloud Certified - Professional Cloud Architect DevOps Engineer |
+| 2022/10 | Google Cloud Certified - Professional Cloud Architect |
+| 2022/11 | Google Cloud Certified - Professional Cloud Developer |
+| 2023/4 | Google Cloud Certified - Professional Cloud Security Engineer |
+| 2023/4 | AWS Certified Advanced Networking – Specialty |
+| 2023/4 | AWS Certified Data Analytics – Specialty |
+| 2023/7 | AWS Certified Machine Learning – Specialty|
+| 2023/8 | Google Cloud Certified - Professional Cloud Architect Data Engineer |
+| 2023/10 | Google Cloud Certified - Professional Cloud Architect DevOps Engineer |
 
 ## 学歴/職歴
 
