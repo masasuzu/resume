@@ -3,6 +3,7 @@
 ## 基本情報
 
 - twitter: [@masasuz](https://twitter.com/masasuz)
+- LinkedIn: https://www.linkedin.com/in/suzuki-masashi
 - blog:
   - main(まとまった記事): http://masasuzu.hatenablog.jp/
   - sub(日記、雑記、メモ): http://masasuzu.hatenadiary.jp/
