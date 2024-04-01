@@ -11,8 +11,7 @@
 - CPAN: https://metacpan.org/author/MASASUZU
 - Speaker Deck: https://speakerdeck.com/masasuzu
 - Slide(古いもの): https://masasuzu.net/slide/
-- AWS認定資格 https://www.credly.com/users/masasuzu/badges
-- Google Cloud認定資格 https://www.credential.net/profile/masasuzu/wallet
+- credly https://www.credly.com/users/masasuzu/badges
 
 ## 保持技術
 
