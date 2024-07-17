@@ -61,6 +61,11 @@
 | 2023/7 | AWS Certified Machine Learning – Specialty|
 | 2023/8 | Google Cloud Certified - Professional Cloud Architect Data Engineer |
 | 2023/10 | Google Cloud Certified - Professional Cloud Architect DevOps Engineer |
+| 2024/6 | Google Cloud Certified - Professional Google Workspace Administrator Certification |
+| 2024/4 | AWS Certified Data Engineer – Associate |
+| 2024/4 | Google Cloud Certified - Professional Cloud Network Engineer |
+
+その他 https://www.credly.com/users/masasuzu 参照
 
 ## 学歴/職歴
 
