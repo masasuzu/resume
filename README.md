@@ -168,17 +168,30 @@
 - [Pithub](https://metacpan.org/release/Pithub)
 - [File::RotateLogs](https://metacpan.org/pod/File::RotateLogs)
 
-## コミュニティ活動
+## 個人活動
 
-### 運営
+### コミュニティ
 
 - Jagu'e'r クラウドネイティブ分科会 運営
-
-過去の活動は[コミュニティ活動](./community.md)を参照
+- SRETT 運営
 
 ### 登壇
 
+過去の活動は[登壇](./talks.md)を参照
+
 | 日付 | 登壇/LT | イベントページ | 資料 | ブログ |
 | --- | --- | --- | --- | --- |
+| 2025/11/21 | 20分トーク | 社内エンジニア勉強会 | [2025-11-21 社内エンジニア勉強会 改めて理解するVPC Endpoint](https://speakerdeck.com/masasuzu/2025-11-21-she-nei-enziniamian-qiang-hui-gai-meteli-jie-suruvpc-endpoint) | - |
 | 2025/11/14 | 40分トーク | [Google Cloud で目指すクラウド二刀流エンジニア講座 第3回](https://cloudonair.withgoogle.com/events/jump-start-23?talk=25q4-t2-session2) | [公開資料](https://cloudonair.withgoogle.com/events/jump-start-23/resources) | [Google Cloud で目指す クラウド二刀流エンジニア講座第3回に登壇してきました。](https://blog.masasuzu.net/entry/2025/11/16/203546) |
 | 2025/11/08 | 20分トーク | [[IAMスペシャル！]Security-JAWS【第39回】勉強会](https://s-jaws.connpass.com/event/366395/) | [2025-11-08 Security JAWS TerraformによるIAM Policy記述ガイド](https://speakerdeck.com/masasuzu/2025-11-08-security-jaws-terraformniyoruiam-policyji-shu-gaido) | - |
+| 2025/09/25 | LT | [3-shake SRE Tech Talk #13 オンサイト](https://3-shake.connpass.com/event/362683/) | [2025-09-25 SRETT #13 ConftestによるTerraformのPolicy as Codeを試してみる](https://speakerdeck.com/masasuzu/2025-09-25-srett-number-13-conftestniyoruterraformnopolicy-as-codewoshi-sitemiru) | - |
+| 2025/09/19 | 20分トーク | 社内エンジニア勉強会 | [2025-09-19 クラウドにおけるシークレット管理](https://speakerdeck.com/masasuzu/2025-09-19-kuraudoniokerusikuretutoguan-li) | [クラウド環境におけるシークレットの扱い - 目の前に僕らの道がある](https://blog.masasuzu.net/entry/2025/09/19/203626) |
+| 2025/08/05 | 20分トーク | Google Cloud Next Tokyo 2025スポンサーブース | [2025-08-05 Google Cloud Next Tokyo 2025 Cloud RunとCloud SQLの接続方式と事例](https://speakerdeck.com/masasuzu/2025-08-05-google-cloud-next-tokyo-2025-cloud-runtocloud-sqlnojie-sok-fang-shi-toshi-li) | - |
+| 2025/06/25 | LT | [JAWS-UG東京 ランチタイムLT会 #24](https://jawsug.connpass.com/event/355052/) | [2025-06-20 PrivateLinkがNLBなしで作れるようになり便利になった](https://speakerdeck.com/masasuzu/2025-06-20-privatelinkkanlbnasitezuo-reruyouninaribian-li-ninatuta) | - |
+| 2025/01/31 | LT | [吉祥寺.pm37](https://kichijojipm.connpass.com/event/339040/) | [2025-01-31 吉祥寺.pm 37 初めての海外カンファレンス](https://speakerdeck.com/masasuzu/2025-01-31-ji-xiang-si-dot-pm-37-chu-metenohai-wai-kanhuarensu) | - |
+| 2025/06/04 | パネルディスカッション | [Google Cloud で目指すクラウド二刀流エンジニア講座 第1回](https://cloudonair.withgoogle.com/events/jump-start-23?talk=25q4-t2-session2)  | - | [Google Cloud で目指す クラウド二刀流エンジニア講座 第1回 でパネルディスカッションに出てきました。](https://blog.masasuzu.net/entry/2025/09/10/005523) |
+| 2025/01/24 | LT | [3-shake SRE Tech Talk #11 オンサイト](https://3-shake.connpass.com/event/339212/) | [2025-01-24-SRETT11-OpenTofuについてそろそろ調べてみるか](https://speakerdeck.com/masasuzu/2025-01-24-srett11-opentofunituitesorosorodiao-betemiruka) | [Terraform使いがOpenTofuについて入門してみる](https://blog.masasuzu.net/entry/2025/02/04/185305) |
+| 2024/03/29 | LT | [3-shake SRE Tech Talk #9](https://3-shake.connpass.com/event/311868/) | [2024-03-29 SRETT9 Cloud SQLの可用性について](https://speakerdeck.com/masasuzu/2024-03-29-srett9-cloudsqlnoke-yong-xing) | - |
+
+
+
