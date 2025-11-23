@@ -6,7 +6,8 @@ TODO: 最近のがまったく反映されていないので、要追記
 
 | 日付 | 登壇/LT | イベントページ | 資料 | ブログ |
 | --- | --- | --- | --- | --- |
-| 2025/11/14 | LT | [Google Cloud で目指すクラウド二刀流エンジニア講座 第3回](https://cloudonair.withgoogle.com/events/jump-start-23?talk=25q4-t2-session2) | [公開資料](https://cloudonair.withgoogle.com/events/jump-start-23/resources) | [Google Cloud で目指す クラウド二刀流エンジニア講座第3回に登壇してきました。](https://blog.masasuzu.net/entry/2025/11/16/203546) | 
+| 2025/11/14 | 40分トーク | [Google Cloud で目指すクラウド二刀流エンジニア講座 第3回](https://cloudonair.withgoogle.com/events/jump-start-23?talk=25q4-t2-session2) | [公開資料](https://cloudonair.withgoogle.com/events/jump-start-23/resources) | [Google Cloud で目指す クラウド二刀流エンジニア講座第3回に登壇してきました。](https://blog.masasuzu.net/entry/2025/11/16/203546) |
+| 2025/11/08 | 20分トーク | [[IAMスペシャル！]Security-JAWS【第39回】勉強会](https://s-jaws.connpass.com/event/366395/) | [2025-11-08 Security JAWS TerraformによるIAM Policy記述ガイド](https://speakerdeck.com/masasuzu/2025-11-08-security-jaws-terraformniyoruiam-policyji-shu-gaido) | --- |
 | 2015/07/10 | LT | [吉祥寺.pm (kichijojipm) #4](https://atnd.org/events/67250) | [ゆるいテンプレートの話](https://speakerdeck.com/masasuzu/2015-07-10-kichijoji-dot-pm4-yurui-template)|  [#kichijojipm 吉祥寺.pmでLTしてきた](https://blog.masasuzu.net/entry/2015/07/12/122011) | 
 | 2015/12/12 | LT | [Chiba.pm #7](https://atnd.org/events/72161) | [無題ドキュメント](https://speakerdeck.com/masasuzu/2015-12-12-chiba-dot-pm7) | [#chibapm Chiba.pm#7に参加しました。](https://blog.masasuzu.net/entry/2015/12/12/chiba.pm-7) |
 | 2015/09/27 | LT | [Gotanda.pm Perl Technology Conference #6](https://gotanda-pm.connpass.com/event/19124/) | [監視の7原則](https://speakerdeck.com/masasuzu/2015-09-17-gotanda-dot-pm6) | [#gotandapm Gotanda.pm Perl Technology Conference #6 でLTしてきました。](https://blog.masasuzu.net/entry/2015/09/17/Gotanda.pm6) |
