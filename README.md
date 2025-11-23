@@ -170,6 +170,15 @@
 
 ## コミュニティ活動
 
+### 運営
+
 - Jagu'e'r クラウドネイティブ分科会 運営
 
 過去の活動は[コミュニティ活動](./community.md)を参照
+
+### 登壇
+
+| 日付 | 登壇/LT | イベントページ | 資料 | ブログ |
+| --- | --- | --- | --- | --- |
+| 2025/11/14 | 40分トーク | [Google Cloud で目指すクラウド二刀流エンジニア講座 第3回](https://cloudonair.withgoogle.com/events/jump-start-23?talk=25q4-t2-session2) | [公開資料](https://cloudonair.withgoogle.com/events/jump-start-23/resources) | [Google Cloud で目指す クラウド二刀流エンジニア講座第3回に登壇してきました。](https://blog.masasuzu.net/entry/2025/11/16/203546) |
+| 2025/11/08 | 20分トーク | [[IAMスペシャル！]Security-JAWS【第39回】勉強会](https://s-jaws.connpass.com/event/366395/) | [2025-11-08 Security JAWS TerraformによるIAM Policy記述ガイド](https://speakerdeck.com/masasuzu/2025-11-08-security-jaws-terraformniyoruiam-policyji-shu-gaido) | - |
