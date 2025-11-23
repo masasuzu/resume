@@ -2,6 +2,8 @@
 
 ## 発表
 
+TODO: 最近のがまったく反映されていないので、要追記
+
 | 日付 | 登壇/LT | イベントページ | 資料 | ブログ |
 | --- | --- | --- | --- | --- |
 | 2015/07/10 | LT | [吉祥寺.pm (kichijojipm) #4](https://atnd.org/events/67250) | [ゆるいテンプレートの話](https://speakerdeck.com/masasuzu/2015-07-10-kichijoji-dot-pm4-yurui-template)|  [#kichijojipm 吉祥寺.pmでLTしてきた](https://blog.masasuzu.net/entry/2015/07/12/122011) | 
