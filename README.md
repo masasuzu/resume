@@ -43,14 +43,22 @@
 
 全資格は[保持資格](./certifications.md)を参照。
 
-| 取得年月 |資格     |
+| 年月 |資格 |
 |:---------|:--------|
 | 2021/09 | AWS Certified Solutions Architect - Professional |
-| 2021/11  | AWS Certified DevOps Engineer - Professional |
+| 2021/11 | AWS Certified DevOps Engineer - Professional |
 | 2022/10 | Google Cloud Certified - Professional Cloud Architect |
 | 2022/11 | Google Cloud Certified - Professional Cloud Developer |
 
 その他 https://www.credly.com/users/masasuzu 参照
+
+## 表彰
+| 年月 | 表彰 |
+|:---------|:--------|
+| 2024/03 | AWS Community Builder 2024 Cloud Operations |
+| 2025/05 | AWS Community Builder 2025 Cloud Operations |
+| 2025/06 | 2025 Japan All AWS Certifications Engineers |
+| 2025/11 | Google Cloud Partner Top Engineer 2026 |
 
 ## 学歴/職歴
 
