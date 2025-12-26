@@ -93,6 +93,10 @@
     - Security Hub
     - Config 
 - オンプレミスに構築されたウェブサービスの基盤をCloud Runへ移行する支援
+- AWSに構築したデジタル通貨サービスの構築運用支援
+    - インフラチームメンバーとして全般的な技術支援
+    - TerraformによるCI/CD整備
+    - [【Digital Platformer株式会社様】金融機関様に向けたデジタル通貨サービス「KAN」の短期提供に向けてインフラ全般をリード | sreake.com | 株式会社スリーシェイク](https://sreake.com/case/digital_platformer/)
 - AWSにおける複数アカウント管理の基盤整備、Control Towerの導入
     - IAM Userでのアカウント管理からIAM Identity Centerによる複数アカウントの統一的にID管理の導入
     - [GNUS様の管理するAWS環境に対して、アカウント管理のベストプラクティスを整備・適用し、運用負荷の低減を実現 | sreake.com | 株式会社スリーシェイク](https://sreake.com/case/gnus/)
