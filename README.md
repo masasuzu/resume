@@ -185,6 +185,7 @@
 
 | 日付 | 登壇/LT | イベントページ | 資料 | ブログ |
 | --- | --- | --- | --- | --- |
+| 2026/02/24 | 15分トーク | [月末 Tech Lunch Online#10 - Google Cloud を語る！](https://jaguer-tech-lunch.connpass.com/event/380673/) | [2026-02-24 月末 Tech Lunch Online #10 Cloud Runのデプロイの課題から考えるアプリとインフラの境界線](https://speakerdeck.com/masasuzu/2026-02-24-yue-mo-tech-lunch-online-number-10-cloud-runnodepuroinoke-ti-karakao-eruapuritoinhuranojing-jie-xian)| - |
 | 2025/11/21 | 20分トーク | 社内エンジニア勉強会 | [2025-11-21 社内エンジニア勉強会 改めて理解するVPC Endpoint](https://speakerdeck.com/masasuzu/2025-11-21-she-nei-enziniamian-qiang-hui-gai-meteli-jie-suruvpc-endpoint) | - |
 | 2025/11/14 | 40分トーク | [Google Cloud で目指すクラウド二刀流エンジニア講座 第3回](https://cloudonair.withgoogle.com/events/jump-start-23?talk=25q4-t2-session2) | [公開資料](https://cloudonair.withgoogle.com/events/jump-start-23/resources) | [Google Cloud で目指す クラウド二刀流エンジニア講座第3回に登壇してきました。](https://blog.masasuzu.net/entry/2025/11/16/203546) |
 | 2025/11/08 | 20分トーク | [[IAMスペシャル！]Security-JAWS【第39回】勉強会](https://s-jaws.connpass.com/event/366395/) | [2025-11-08 Security JAWS TerraformによるIAM Policy記述ガイド](https://speakerdeck.com/masasuzu/2025-11-08-security-jaws-terraformniyoruiam-policyji-shu-gaido) | - |
